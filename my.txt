@@ -1,1 +1,1 @@
-Hi Jenkins master from slave 
+Hi master from slave 
